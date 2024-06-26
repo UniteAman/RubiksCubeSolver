@@ -87,6 +87,9 @@
 		<Unit filename="C:/Users/amans/CLionProjects/RubiksCubeSolver/main.cpp">
 			<Option target="RubiksCubeSolver"/>
 		</Unit>
+		<Unit filename="C:/Users/amans/CLionProjects/RubiksCubeSolver/model/RubiksCube.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
 		<Unit filename="C:/Users/amans/CLionProjects/RubiksCubeSolver/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
